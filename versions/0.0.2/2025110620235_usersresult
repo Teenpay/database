@@ -1,0 +1,4 @@
+"id","email","phone","password_hash","locale","created_at","updated_at","username","first_name","last_name"
+"2","l.petrova@example.com",NULL,"AQAAAAIAAYagAAAAEGBCAQuoQvtr+tkK3AEQJfXK94l5bSRUUsDFc8LZ4+lFuqeidMxNEVt1ZUH45/hMBg==","en","2025-10-27 19:06:20.501862+00","2025-10-27 19:06:20.501862+00","popa","Liana","Petrova"
+"3","a.mitrevics@example.com",NULL,"AQAAAAIAAYagAAAAEE8V5V9jVNWN2nAzKKCK4OHggWWtN6aAxzuwGnEJ0t4xhm8A7dXrx7Lns8sukPi3VQ==","en","2025-10-30 14:51:49.379+00","2025-10-30 14:51:49.379+00","artem","Artem","Mitrevics"
+"4","a.rivers@example.com",NULL,"AQAAAAIAAYagAAAAEMmAOW6MEHIwqurkIeFy+Mf/DZZOSNutFtRjxd7SQ70EyVAffQqr8hl1I0A6PqTdvA==","en","2025-10-30 17:43:26.375405+00","2025-10-30 17:43:26.375405+00","arina","Arina","Rivers"
