@@ -1,0 +1,2 @@
+ALTER TABLE teenpay.users
+ADD COLUMN IF NOT EXISTS role text NULL;
