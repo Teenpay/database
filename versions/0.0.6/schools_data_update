@@ -1,0 +1,6 @@
+"id","code","name","city","address","created_at","account_number","payment_code","pos_user_id"
+"1","RIGA_25","Rīgas 25. vidusskola","Rīga","Brīvības iela 123","2025-12-08 18:06:10.818857+00","LV00TPAY0000000001","SCH-RIGA25-A1B2",5
+"2","RIGA_GYM","Rīgas Valsts ģimnāzija","Rīga","Skolas iela 5","2025-12-08 18:06:10.818857+00","LV00TPAY0000000002","SCH-RIGAGYM-C3D4",9
+"3","LIEPAJA_1","Liepājas 1. vidusskola","Liepāja","Kuršu iela 10","2025-12-08 18:06:10.818857+00","LV00TPAY0000000003","SCH-LIEPAJA1-E5F6",10
+"4","JURMALA_G","Jūrmalas Valsts ģimnāzija","Jūrmala","Jomas iela 77","2025-12-08 18:06:10.818857+00","LV00TPAY0000000004","SCH-JURMALAG-G7H8",11
+"5","OGRE_GYM","Ogres Valsts ģimnāzija","Ogre","Skolas iela 2","2025-12-08 18:06:10.818857+00","LV00TPAY0000000005","SCH-OGREGYM-J9K0",12
